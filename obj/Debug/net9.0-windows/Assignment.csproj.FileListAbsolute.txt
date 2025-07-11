@@ -1,0 +1,14 @@
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\bin\Debug\net9.0-windows\Assignment.exe
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\bin\Debug\net9.0-windows\Assignment.deps.json
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\bin\Debug\net9.0-windows\Assignment.runtimeconfig.json
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\bin\Debug\net9.0-windows\Assignment.dll
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\bin\Debug\net9.0-windows\Assignment.pdb
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\obj\Debug\net9.0-windows\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\obj\Debug\net9.0-windows\Assignment.AssemblyInfoInputs.cache
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\obj\Debug\net9.0-windows\Assignment.AssemblyInfo.cs
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\obj\Debug\net9.0-windows\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\obj\Debug\net9.0-windows\Assignment.dll
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\obj\Debug\net9.0-windows\refint\Assignment.dll
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\obj\Debug\net9.0-windows\Assignment.pdb
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\obj\Debug\net9.0-windows\Assignment.genruntimeconfig.cache
+C:\Users\milla\OneDrive\Desktop\School Works\CODES\Integ_Prog\Assignment\obj\Debug\net9.0-windows\ref\Assignment.dll
